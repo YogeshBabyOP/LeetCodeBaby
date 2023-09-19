@@ -63,3 +63,4 @@ class Solution {
 
 Binary Search in depth explantion with pictures.
 
+file:///C:/Users/tumma/OneDrive/Pictures/Screenshots/Screenshot%20(211).png
