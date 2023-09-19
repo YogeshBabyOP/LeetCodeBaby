@@ -63,4 +63,8 @@ class Solution {
 
 Binary Search in depth explantion with pictures.
 
-file:///C:/Users/tumma/OneDrive/Pictures/Screenshots/Screenshot%20(211).png
+
+![Screenshot (211)](https://github.com/YogeshBabyOP/LeetCodeBaby/assets/114099821/6ccf918a-dd54-4bef-99b9-778b1c7ce4c8)
+
+![image](https://github.com/YogeshBabyOP/LeetCodeBaby/assets/114099821/acb8ba48-3334-48a5-9fc4-5d4c8797a75f)
+
